@@ -41,34 +41,32 @@ describe()
 Data type inspection
 
 2. Data Cleaning and Preprocessing
-Checked for missing values
-Checked and removed duplicate records
-Cleaned percentage and numeric columns
-Corrected inconsistent data types
+Checked for missing values,
+Checked and removed duplicate records,
+Cleaned percentage and numeric columns,
+Corrected inconsistent data types,
 Created derived columns for additional analysis
 
 3. Exploratory Data Analysis (EDA)
 Performed:
 
-Univariate analysis
-Bivariate analysis
-Multivariate analysis
+Univariate analysis,
+Bivariate analysis,
+Multivariate analysis,
 Used:
 
-Statistical summaries
-Groupby analysis
-Pivot tables
+Statistical summaries,
+Groupby analysis,
+Pivot tables,
 Correlation analysis
 
 4. Data Visualization
 
 Created multiple visualizations using Matplotlib and Seaborn, including:
 
-Line charts
-Bar charts
-Histograms
-Scatter plots
-Box plots
-
-
+Line charts,
+Bar charts,
+Histograms,
+Scatter plots,
+Box plots,
 Heatmaps
